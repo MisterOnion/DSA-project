@@ -1,0 +1,21 @@
+[O - R]  Distance: 5
+[D - E]  Distance: 6
+[C - G]  Distance: 9
+[E - H]  Distance: 9
+[N - O]  Distance: 12
+[K - S]  Distance: 25
+[N - Q]  Distance: 28
+[K - M]  Distance: 30
+[K - L]  Distance: 33
+[F - G]  Distance: 33
+[J - N]  Distance: 37
+[B - C]  Distance: 42
+[P - Q]  Distance: 43
+[K - Q]  Distance: 43
+[I - P]  Distance: 44
+[H - P]  Distance: 47
+[A - I]  Distance: 51
+[D - T]  Distance: 60
+[D - G]  Distance: 62
+
+Kruskal's Algorithm Program Runtime: 10.0281 ms

@@ -1,0 +1,57 @@
+Shortest paths from node A
+To node T is at distance 216
+Path: A(0) B(75) F(57) J(78) T(68) 
+
+To node N is at distance 247
+Path: A(0) B(75) F(57) J(78) N(37) 
+
+To node O is at distance 154
+Path: A(0) B(75) O(79) 
+
+To node F is at distance 132
+Path: A(0) B(75) F(57) 
+
+To node A is at distance 0
+Path: A(0) 
+
+To node I is at distance 51
+Path: A(0) I(51) 
+
+To node C is at distance 117
+Path: A(0) B(75) C(42) 
+
+To node H is at distance 52
+Path: A(0) H(52) 
+
+To node B is at distance 75
+Path: A(0) B(75) 
+
+To node Q is at distance 66
+Path: A(0) Q(66) 
+
+To node G is at distance 126
+Path: A(0) B(75) C(42) G(9) 
+
+To node J is at distance 210
+Path: A(0) B(75) F(57) J(78) 
+
+To node K is at distance 94
+Path: A(0) K(94) 
+
+To node S is at distance 102
+Path: A(0) K(94) S(25) 
+
+To node P is at distance 77
+Path: A(0) H(52) P(47) 
+
+To node L is at distance 127
+Path: A(0) B(75) C(42) L(69) 
+
+To node M is at distance 107
+Path: A(0) K(94) M(30) 
+
+To node R is at distance 128
+Path: A(0) K(94) M(30) R(68) 
+
+
+Dijkstra Algorithm Program Runtime: 8.0051 ms

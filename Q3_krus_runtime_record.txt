@@ -1,0 +1,20 @@
+Edge O - R took: 0.004 ms
+Edge D - E took: 0.0028 ms
+Edge C - G took: 0.0043 ms
+Edge E - H took: 0.0018 ms
+Edge N - O took: 0.0043 ms
+Edge K - S took: 0.0016 ms
+Edge N - Q took: 0.0018 ms
+Edge K - M took: 0.0019 ms
+Edge K - L took: 0.0039 ms
+Edge F - G took: 0.0017 ms
+Edge J - N took: 0.0022 ms
+Edge B - C took: 0.0015 ms
+Edge P - Q took: 0.0018 ms
+Edge K - Q took: 0.0017 ms
+Edge I - P took: 0.0022 ms
+Edge H - P took: 0.0017 ms
+Edge A - I took: 0.0022 ms
+Edge D - T took: 0.0024 ms
+Edge D - G took: 0.0017 ms
+Total processing time: 0.0684

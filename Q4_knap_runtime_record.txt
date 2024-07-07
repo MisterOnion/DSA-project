@@ -1,0 +1,23 @@
+Note: all index 0 stars and weight are coded to 0 profit 
+
+Total processing time: 0.5474
+Processing time for each star increment: 
+1 stars: 0 ms
+2 stars: 0.0001 ms
+3 stars: 0.0001 ms
+4 stars: 0 ms
+5 stars: 0 ms
+6 stars: 0.0001 ms
+7 stars: 0.0001 ms
+8 stars: 0 ms
+9 stars: 0 ms
+10 stars: 0.0001 ms
+11 stars: 0 ms
+12 stars: 0 ms
+13 stars: 0 ms
+14 stars: 0 ms
+15 stars: 0 ms
+16 stars: 0 ms
+17 stars: 0 ms
+18 stars: 0 ms
+19 stars: 0.0001 ms

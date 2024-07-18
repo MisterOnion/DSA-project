@@ -1,2 +1,5 @@
 # DSA-project
-built using C++
+Built using C++
+
+Algorithms included:
+
